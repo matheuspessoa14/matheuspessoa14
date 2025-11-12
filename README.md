@@ -6,7 +6,7 @@
 
 ###
 <hr>
-<p align="left">💻 Atualmente: Estudante de Análise e Desenvolvimento de Sistemas na Faculdade SENAC RIO | Buscando estágio em Desenvolvimento Web<br>🎓 Foco: Desenvolvimento Front-End | Java & Pyhton<br>📍 Localização: Rio de Janeiro</p>
+<p align="left">💻 Atualmente: Estudante de Análise e Desenvolvimento de Sistemas | Buscando estágio em Desenvolvimento Web<br>🎓 Foco: Desenvolvimento Front-End | Java & Pyhton<br>📍 Localização: Rio de Janeiro</p>
 
 ###
 <hr>
