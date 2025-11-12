@@ -5,11 +5,11 @@
 <h3 align="left">Futuro Dev Full Stack | Apaixonado por programação</h3>
 
 ###
-
+<hr>
 <p align="left">💻 Atualmente: Estudante de Análise e Desenvolvimento de Sistemas na Faculdade SENAC RIO | Buscando estágio em Desenvolvimento Web<br>🎓 Foco: Desenvolvimento Front-End | Java & Pyhton<br>📍 Localização: Rio de Janeiro</p>
 
 ###
-
+<hr>
 <h3 align="left">🖥️Front-End</h3>
 
 ###
@@ -73,7 +73,7 @@
 </div>
 
 ###
-
+<hr>
 <h3 align="left">🎓 Formação & Certificações</h3>
 
 ###
@@ -81,17 +81,20 @@
 <p align="left">🎓 | Análise e Desenvolvimento de Sistemas - Faculdade Senac RJ (2024 - 2026)<br>Cursando 2º período | Previsão de formatura: Dezembro/2026<br><br>💻 | Programador Front-End com IA - SENAC RJ (Cursando - 80h)<br><br>📈 | Operador de Infraestrutura de Redes - SENAI RJ (Concluído - 320h)<br><br>🌐 | Certificações Cisco Networking Academy<br>- AI Fundamentals with IBM SkillsBuild<br>-  Introduction to Cybersecurity<br>- Introduction to Data Science<br>-  Introduction to IoT and Digital Transformation</p>
 
 ###
-
+<hr>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://discord.com/users/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/matheuspessoa1816/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:matheustelles1410@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
 </div>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
