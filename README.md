@@ -3,8 +3,8 @@
 <h3 align="left">🚀 Futuro Dev Full Stack | Apaixonado por Programação</h3>
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🎯 Buscando estágio em Desenvolvimento Web  
-🎓 Foco atual: Front-End | Java | Python  
+🎯 Buscando Estágio em Desenvolvimento Web  
+🎓 Foco atual: Java | Python | Front-End  
 📍 Rio de Janeiro – RJ  
 
 ---
@@ -61,8 +61,8 @@
 
 ## 🎓 Formação & Certificações
 
-🎓 **Análise e Desenvolvimento de Sistemas — Senac RJ (2024–2026)**  
-Atualmente no 2º período • Previsão de conclusão: Dez/2026
+🎓 **Análise e Desenvolvimento de Sistemas — Faculdade SENAC RJ (2024–2026)**  
+Atualmente no 3º período • Previsão de conclusão: Dez/2026
 
 💻 **Programador Front-End com IA — SENAC RJ (Cursando – 80h)**
 
@@ -82,13 +82,13 @@ Atualmente no 2º período • Previsão de conclusão: Dez/2026
   <img 
     align="left" 
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=matheuspessoa14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=matheuspessoa1816&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img 
     align="left"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspessoa14&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspessoa1816&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
 
