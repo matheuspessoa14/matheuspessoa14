@@ -62,11 +62,11 @@
 ## 🎓 Formação & Certificações
 
 🎓 **Análise e Desenvolvimento de Sistemas — Faculdade SENAC RJ (2024–2026)**  
-Atualmente no 3º período • Previsão de conclusão: Dez/2026
+Atualmente no 3º período • *Previsão de conclusão:* Dez/2026
 
-💻 **Programador Front-End com IA — SENAC RJ (Cursando – 80h)**
+💻 **Programador Front-End com IA — SENAC RJ** *(Cursando – 80h)*
 
-📈 **Operador de Infraestrutura de Redes — SENAI RJ (Concluído – 320h)**
+📈 **Operador de Infraestrutura de Redes — SENAI RJ** *(Concluído – 320h)*
 
 🌐 **Cisco Networking Academy**  
 • AI Fundamentals with IBM SkillsBuild  
@@ -79,16 +79,16 @@ Atualmente no 3º período • Previsão de conclusão: Dez/2026
 ## 📊 Estatísticas GitHub
 
 <p>
-  <img 
-    align="left" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=matheuspessoa1816&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img 
+  <img
     align="left"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspessoa1816&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=matheuspessoa14&show_icons=true&theme=tokyonight&include_all_commits=true"
+  />
+  
+  <img
+    align="left"
+    height="200"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=matheuspessoa14&layout=compact&theme=tokyonight"
   />
 </p>
 
