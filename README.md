@@ -64,15 +64,19 @@
 🎓 **Análise e Desenvolvimento de Sistemas — Faculdade SENAC RJ (2024–2026)**  
 Atualmente no 3º período • *Previsão de conclusão:* Dez/2026
 
-💻 **Programador Front-End com IA — SENAC RJ** *(Cursando – 80h)*
-
 📈 **Operador de Infraestrutura de Redes — SENAI RJ** *(Concluído – 320h)*
 
-🌐 **Cisco Networking Academy**  
-• AI Fundamentals with IBM SkillsBuild  
-• Introduction to Cybersecurity  
-• Introduction to Data Science  
-• Introduction to IoT & Digital Transformation  
+💻 **Programador Front-End com IA — SENAC RJ** *(Concluído – 80h)*
+
+🖥️ **Programador Back-End — SENAI RJ** *(Cursando – 180h)*
+
+📊 **Administrador de Banco de Dados — SENAI RJ** *(Cursando – 180h)*
+
+🌐 **Cisco Networking Academy:**  
+- AI Fundamentals with IBM SkillsBuild  
+- Introduction to Cybersecurity  
+- Introduction to Data Science  
+- Introduction to IoT & Digital Transformation  
 
 ---
 
