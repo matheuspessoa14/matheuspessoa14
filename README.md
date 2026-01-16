@@ -3,7 +3,7 @@
 <h3 align="left">🚀 Futuro Dev Full Stack | Apaixonado por Programação</h3>
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🎯 Buscando Estágio em Desenvolvimento Web  
+🎯 Buscando Estágio em Tecnolgia da Informação  
 🎓 Foco atual: Java | Python | Front-End  
 📍 Rio de Janeiro – RJ  
 
@@ -62,7 +62,7 @@
 ## 🎓 Formação & Certificações
 
 🎓 **Análise e Desenvolvimento de Sistemas — Faculdade SENAC RJ (2024–2026)**  
-Atualmente no 3º período • *Previsão de conclusão:* Dez/2026
+Atualmente no 4º período • *Previsão de conclusão:* Dez/2026
 
 📈 **Operador de Infraestrutura de Redes — SENAI RJ** *(Concluído – 320h)*
 
