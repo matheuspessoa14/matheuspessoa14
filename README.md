@@ -3,7 +3,7 @@
 <h3 align="left">🚀 Futuro Dev Full Stack | Apaixonado por Programação</h3>
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🎯 Buscando Estágio em Tecnolgia da Informação  
+🎯 Buscando Estágio em TI  
 🎓 Foco atual: Java | Python | Front-End  
 📍 Rio de Janeiro – RJ  
 
