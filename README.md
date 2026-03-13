@@ -68,9 +68,11 @@ Atualmente no 4º período • *Previsão de conclusão:* Dez/2026
 
 💻 **Programador Front-End com IA — SENAC RJ** *(Concluído – 80h)*
 
-🖥️ **Programador Back-End — SENAI RJ** *(Cursando – 180h)*
+🖥️ **Programador Back-End — SENAI RJ** *(Concluído – 180h)*
 
 📊 **Administrador de Banco de Dados — SENAI RJ** *(Cursando – 180h)*
+
+🤖 **Inteligência Artificial aplicada a Indústria — SENAI RJ** *(Cursando – 200h)*
 
 🌐 **Cisco Networking Academy:**  
 - AI Fundamentals with IBM SkillsBuild  
