@@ -59,20 +59,22 @@
 
 ---
 
-## 🎓 Formação & Certificações
+## 🎓 Formação Acadêmica & Certificações
 
 🎓 **Análise e Desenvolvimento de Sistemas — Faculdade SENAC RJ (2024–2026)**  
 Atualmente no 4º período • *Previsão de conclusão:* Dez/2026
 
-📈 **Operador de Infraestrutura de Redes — SENAI RJ** *(Concluído – 320h)*
+💻 **Programador Front-End com IA — SENAC RJ** *(Concluído • 80h)*
 
-💻 **Programador Front-End com IA — SENAC RJ** *(Concluído – 80h)*
+🖥️ **Programador Back-End — SENAI RJ** *(Concluído • 180h)*
 
-🖥️ **Programador Back-End — SENAI RJ** *(Concluído – 180h)*
+📊 **Administrador de Banco de Dados — SENAI RJ** *(Concluído • 180h)*
 
-📊 **Administrador de Banco de Dados — SENAI RJ** *(Cursando – 180h)*
+📈 **Operador de Infraestrutura de Redes — SENAI RJ** *(Concluído • 320h)*
 
-🤖 **Inteligência Artificial aplicada a Indústria — SENAI RJ** *(Cursando – 200h)*
+🤖 **Inteligência Artificial aplicada a Indústria — SENAI RJ** *(Em andamento • 200h)*
+
+🖧 **Operador de Sistemas Computacionais em Rede — SENAI RJ** *(Em andamento • 200h)*
 
 🌐 **Cisco Networking Academy:**  
 - AI Fundamentals with IBM SkillsBuild  
