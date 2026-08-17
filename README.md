@@ -1,12 +1,15 @@
-<h1 align="left">👋 Hello World! Sou o Matheus Pessoa</h1>
+<h1 align="left">👋 Hello World! Eu sou o Matheus Pessoa</h1>
 
-<h3 align="left">Desenvolvedor em formação | Web Development, Dados, IA e Cloud</h3>
+<h3 align="left">Full Stack Developer @ FJG | Python • Java • React | Cloud, Dados & IA</h3>
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🎓 Graduado em Marketing, unindo visão de negócios com tecnologia  
-🎯 Buscando oportunidade de Estágio em TI  
-🚀 Foco atual: React, Java, Spring Boot, Python, Dados, Cloud e IA 
-📍 Rio de Janeiro – RJ  
+💻 Desenvolvedor Full Stack no Instituto Fundação João Goulart (FJG)<br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+🎓 Graduado em Marketing pela Universidade Veiga de Almeida<br>
+🚀 Desenvolvendo soluções web, APIs e aplicações orientadas a dados<br>
+☁️ Interesse em Cloud, Dados e Inteligência Artificial<br>
+📍 Rio de Janeiro – RJ
+
+
 
 ---
 
@@ -62,7 +65,7 @@
 ## 🎓 Formação Acadêmica
 
 🎓 **Análise e Desenvolvimento de Sistemas — Faculdade SENAC RJ**  
-Atualmente no 4º período • Previsão de conclusão: Dez/2026
+Atualmente no 5º período • Previsão de conclusão: Ago/2027
 
 🎓 **Marketing — Universidade Veiga de Almeida**  
 Concluído em 2026
@@ -73,12 +76,11 @@ Concluído em 2026
 
 ### Certificações Microsoft
 
-- **Microsoft AZ-900 — Azure Fundamentals** | Concluída
-- **Microsoft AI-900 — Azure AI Fundamentals** | Concluída
-- **Microsoft SC-900 — Security, Compliance, and Identity Fundamentals** | Em preparação
-- **Microsoft DP-900 — Azure Data Fundamentals** | Em preparação
-- **Microsoft AB-900 — Microsoft 365 Copilot and Agent Administration Fundamentals** | Em preparação
-
+- **Microsoft AZ-900 — Azure Fundamentals** 
+- **Microsoft AI-900 — Azure AI Fundamentals** 
+- **Microsoft SC-900 — Security, Compliance, and Identity Fundamentals**
+- **Microsoft DP-900 — Azure Data Fundamentals**
+  
 ### Cisco Networking Academy
 
 - Introduction to Cybersecurity
@@ -92,27 +94,7 @@ Concluído em 2026
 - Administrador de Banco de Dados — SENAI RJ
 - Operador de Infraestrutura de Redes — SENAI RJ
 - Inteligência Artificial aplicada à Indústria — SENAI RJ
-- Operador de Sistemas Computacionais em Rede — SENAI RJ
 
----
-
-## 📊 Estatísticas GitHub
-
-<p>
-  <img
-    align="left"
-    height="200"
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=matheuspessoa14&show_icons=true&theme=tokyonight&include_all_commits=true"
-  />
-  
-  <img
-    align="left"
-    height="200"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=matheuspessoa14&layout=compact&theme=tokyonight"
-  />
-</p>
-
-<br clear="both"/>
 
 ---
 
